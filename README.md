@@ -2,7 +2,7 @@ Feasto - Online Food Ordering Platform
 
 Welcome to Feasto, your go-to destination for a delightful online food ordering experience!
 
-Features
+Features:
 
 Diverse Menu: Explore a wide range of culinary delights, from savory pizzas to juicy burgers, flavorful pastas, and crispy french fries.
 
